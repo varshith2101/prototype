@@ -33,3 +33,8 @@ pnpm-debug.log*
 
 # Assets
 /assets/
+
+# MD
+/MD/
+
+/Architecture-prototype/
