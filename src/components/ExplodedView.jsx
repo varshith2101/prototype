@@ -9,7 +9,7 @@ import './ExplodedView.css'
  */
 function EngineModel({ explosionAmount }) {
   const group = useRef()
-  const { scene } = useGLTF('/test.glb')
+  const { scene } = useGLTF('https://assets-sup.netlify.app/test.glb')
   const [explodedParts, setExplodedParts] = useState([])
 
   useEffect(() => {
