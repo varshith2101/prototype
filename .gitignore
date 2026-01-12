@@ -38,3 +38,6 @@ pnpm-debug.log*
 /MD/
 
 /Architecture-prototype/
+
+# Mockup Admin Panel
+/mockup-admin-panel/
